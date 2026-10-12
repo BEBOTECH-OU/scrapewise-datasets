@@ -1,0 +1,8 @@
+9ac100569f4b6e867bd461c98504d4bb2200222cc549b5267df1e133d45f5fd6  amazon-uk-2026-price-points/amazon-uk-2026-price-points.csv
+599a4a4e5d2ad7654cc8c77dc79c937defb373e381e2793c87c3d405d1a53332  amazon-uk-2026-price-points/README.md
+d5e958a252e3b6bb2020e9188253b1247dc3d2eeb416b9fd6f1af9ccb39b1806  amazon-uk-2026-ratings-and-feedback/amazon-uk-2026-ratings-and-feedback.csv
+0eea45a4fc255f12a2433e18fdd405116b339761c14c6a4086392a88acd1e59f  amazon-uk-2026-ratings-and-feedback/README.md
+cdfb43d06aafb41d9755e88f1376b23389cd7292ff31fd2c40fc2db55db203cc  amazon-uk-2026-seller-geography/amazon-uk-2026-seller-geography.csv
+6963fe6c34213289c23902debd6073d8b5747abd69d6b8b96ee6f3efebbe3cc6  amazon-uk-2026-seller-geography/README.md
+3ebb208c11e334e6cc41940759524a05b25648d1d8f82ac7c853de538bce113d  LICENSE
+9981e84566b5b03786aab72f3efa5ae3cefd81f8998651fb7e6fd1ac5e01a9b3  README.md
