@@ -63,3 +63,10 @@ shasum -a 256 -c checksums.txt
 
 These files are a snapshot, not a feed. There is no "latest" version: 2026-09-23/2026-09-24 is what
 they describe, and they are not updated in place.
+
+## Where else to get this
+
+The same files, byte for byte:
+
+- [GitHub](https://github.com/BEBOTECH-OU/scrapewise-datasets)
+- [Kaggle](https://www.kaggle.com/datasets/siimbrazier/amazon-uk-marketplace-snapshot-september-2026)
