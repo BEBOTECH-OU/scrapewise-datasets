@@ -70,3 +70,4 @@ The same files, byte for byte:
 
 - [GitHub](https://github.com/BEBOTECH-OU/scrapewise-datasets)
 - [Kaggle](https://www.kaggle.com/datasets/siimbrazier/amazon-uk-marketplace-snapshot-september-2026)
+- [Hugging Face](https://huggingface.co/datasets/Scrapewiseai/amazon-uk-marketplace-snapshot-2026-09)
